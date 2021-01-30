@@ -21,7 +21,8 @@ Talking about Personal Stuffs:
  
 :memo: Resume[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
-:mailbox: How to reach me:  👇 👇
+<h3 align= "left"> :mailbox: How to reach me:  👇 👇 </h3>
+<p align="left">
 
 <a href="https://twitter.com/j_muriu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="j_muriu" height="30" width="40" /></a>
 
@@ -32,6 +33,7 @@ Talking about Personal Stuffs:
 
 <a href="https://dev.to/legastoc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="john-muriu" height="30" width="40" /></a>
 
+</p>
 
 
 <h3 align="left">Support:</h3>
