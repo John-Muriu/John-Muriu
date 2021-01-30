@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/john-muriu/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/john-muriu/<OWNER>/<OWNER>/readme_code.gif "Header")](https://some-url.dev/)
 
 
 Hello Forks  :wave: ,
