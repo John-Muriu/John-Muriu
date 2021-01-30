@@ -32,7 +32,7 @@ Talking about Personal Stuffs:
 </p>
 
 
-<h3 align="right">Support:</h3>
+<h3 align="left">Support:</h3>
 
 <p>
 <a href="https://www.buymeacoffee.com/johnmuriu"> 
