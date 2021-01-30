@@ -32,7 +32,7 @@ Talking about Personal Stuffs:
 </p>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="right">Support:</h3>
 
 <p>
 <a href="https://www.buymeacoffee.com/johnmuriu"> 
@@ -41,10 +41,9 @@ Talking about Personal Stuffs:
 </p>
 <br>
 <br>
-
-<p align="center">
+ 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical&hide=contribs,issues))](https://github.com/john-muriu/github-readme-stats)
-<p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muriu&langs_count=8)](https://github.com/john-muriu/github-readme-stats)
 
