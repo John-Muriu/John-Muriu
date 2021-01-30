@@ -21,4 +21,8 @@ Talking about Personal Stuffs:
 
 :memo: Resume
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu)](https://github.com/john-muriu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true)](https://github.com/john-muriu/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
