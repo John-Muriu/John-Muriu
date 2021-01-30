@@ -21,7 +21,7 @@ Talking about Personal Stuffs:
 
 :memo: Resume
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical)](https://github.com/john-muriu/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical&hide=contribs,issues))](https://github.com/john-muriu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muriu&langs_count=8)](https://github.com/john-muriu/github-readme-stats)
 
