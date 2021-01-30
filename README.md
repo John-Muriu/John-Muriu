@@ -1,7 +1,6 @@
+<h1 align="center"> Hello Forks  i'm JoHn MuRiU :wave:</h1> 
+ ,<h3 align="center">FrOnT-eNd Developer</h3>
 
-
-
-Hello Forks  :wave: ,[(https://github.com/John-Muriu/octo-couscous/blob/main/code.gif)](https://some-url.dev/)
 
 <p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> </p>
 
@@ -13,15 +12,14 @@ Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on cool projects ;
 
-:seedling: - 🔭 I’m currently working on [Ledger Generator](https://github.com/ChrisAchinga/ledger-generator);
+:seedling: - 🔭 I’m currently working on several Projects (https://github.com/john-muriu/);
+:seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify/)
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
-:seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify/)
-
-👨‍💻 All of my projects are available at [https://github.com/john-muriu/my-projects-documetation](https://github.com/john-muriu/my-projects-documetation)
+👨‍💻 All of my projects are available at [https://github.com/john-muriu/](https://github.com/john-muriu/)
  
-:memo: Resume[My resume](https://www.dropbox.com/s/mz0asx4fu3wce87/chris_achinga%28beta2%29%20.docx?dl=0)
+:memo: Resume[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
 :mailbox: How to reach me:  👇 👇
 
@@ -39,8 +37,8 @@ Talking about Personal Stuffs:
 <h3 align="left">Support:</h3>
 
 <p>
-<a href="https://www.buymeacoffee.com/chrisDev"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrisDev" />
+<a href="https://www.buymeacoffee.com/johnmuriu"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="john-muriu" />
 </a>
 </p>
 <br>
