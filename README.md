@@ -1,4 +1,7 @@
-Hey  :wave: ,
+[![Header](https://raw.githubusercontent.com/john-muriu/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
+Hello Forks  :wave: ,
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
