@@ -5,8 +5,6 @@ Hello Forks  :wave: ,
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
-<img src="https://raw.githubusercontent.com/abel-masila/abel-masila/master/code.gif"width="30px">
-
 
 Talking about Personal Stuffs:
 
