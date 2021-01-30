@@ -12,6 +12,6 @@ Talking about Personal Stuffs:
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
-:mailbox: How to reach me: @abel_masila ;
+:mailbox: How to reach me: @john-muriu ;
 
 :memo: Resume
