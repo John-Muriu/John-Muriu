@@ -20,3 +20,5 @@ Talking about Personal Stuffs:
 :mailbox: How to reach me: @john-muriu ;
 
 :memo: Resume
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu)](https://github.com/john-muriu/github-readme-stats)
