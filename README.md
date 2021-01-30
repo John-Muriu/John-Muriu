@@ -1,12 +1,11 @@
-[![Header](https://github.com/John-Muriu/octo-couscous/blob/main/3126742.png)](https://some-url.dev/)
+[![Header](https://github.com/John-Muriu/octo-couscous/blob/main/code.gif)](https://some-url.dev/)
 
 
 Hello Forks  :wave: ,
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
-<img src="https://github.com/John-Muriu/octo-couscous/blob/main/code.gif
-" width="30px">
+<img src="https://raw.githubusercontent.com/abel-masila/abel-masila/master/code.gif"width="30px">
 
 
 Talking about Personal Stuffs:
