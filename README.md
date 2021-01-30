@@ -40,7 +40,7 @@ Talking about Personal Stuffs:
 </a>
 </p>
 <br>
-<br>
+<hr/>
  
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical&hide=contribs,issues))](https://github.com/john-muriu/github-readme-stats)
 
