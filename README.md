@@ -1,7 +1,7 @@
-[![Header](https://github.com/John-Muriu/octo-couscous/blob/main/code.gif)](https://some-url.dev/)
 
 
-Hello Forks  :wave: ,
+
+Hello Forks  :wave: ,[(https://github.com/John-Muriu/octo-couscous/blob/main/code.gif)](https://some-url.dev/)
 
 <p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> </p>
 
