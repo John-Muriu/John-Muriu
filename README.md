@@ -1,4 +1,4 @@
-Hey There :wave: ,
+Hey  :wave: ,
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
