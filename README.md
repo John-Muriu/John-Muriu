@@ -23,7 +23,5 @@ Talking about Personal Stuffs:
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical)](https://github.com/john-muriu/github-readme-stats)
 
-![john's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=github-readme-stats)](https://github.com/john-muriu/github-readme-stats)
-theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muriu&langs_count=8)](https://github.com/john-muriu/github-readme-stats)
 
