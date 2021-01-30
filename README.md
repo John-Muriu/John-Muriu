@@ -3,7 +3,7 @@
 
 Hello Forks  :wave: ,
 
-<p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/achinga_chris?logo=twitter&style=for-the-badge" alt="achinga_chris" /></a> </p>
+<p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> </p>
 
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
