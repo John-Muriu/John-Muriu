@@ -1,10 +1,12 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/John-Muriu/octo-couscous/blob/main/3126742.png)](https://some-url.dev/)
 
 
 Hello Forks  :wave: ,
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
+<img src="https://github.com/John-Muriu/octo-couscous/blob/main/code.gif
+" width="30px">
 
 
 Talking about Personal Stuffs:
