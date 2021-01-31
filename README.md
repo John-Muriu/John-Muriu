@@ -124,7 +124,7 @@ console.log(`Feel free to contribute`);
  
 <p align="left">
 <a href="https://github.com/john-muriu">
-  <img align="left" src="https://github-readme-stat.vercel.app/api?username=john-muriu&show_icons=true&theme=algolia" />
+  <img align="left" src="https://github-readme-sta.vercel.app/api?username=john-muriu&show_icons=true&theme=algolia" />
 </a>
 </p>
 
