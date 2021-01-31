@@ -24,15 +24,17 @@ Talking about Personal Stuffs:
  
 :memo: Resume[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
-<h3 align= "left"> :mailbox: How to reach me:  👇 👇 </h3>
-<p align="left">
-<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white /></a>
-<a href="https://www.linkedin.com/in/john-muriu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="john-muriu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13070338/muriu
-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="john-muriu" height="30" width="40" /></a>
-<a href="https://dev.to/legastoc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="john-muriu" height="30" width="40" /></a>
+### ⚡ Technologies
 
-</p>
+These are some of the technologies and tools that I work with:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 
