@@ -36,6 +36,22 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
+```javascript
+console.log(`Feel free to contribute`);
+```
+
+<span>
+<p align="center">
+  <a href="https://github.com/John-Muriu/bouncing-Balls">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=bouncing-Balls&theme=algolia" />
+  </a>
+
+  <a href="https://github.com/shravan20/github-readme-quotes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
+  </a>
+</p>
+</span>
 
 
 <h3 align="left">Support:</h3>
