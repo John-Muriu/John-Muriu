@@ -132,3 +132,9 @@ console.log(`Feel free to contribute`);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muriu&langs_count=8)](https://github.com/john-muriu/github-readme-stats)
 
+<p align="center">
+  <img src="Banner.png" alt="Banner"/>
+</p>
+
+
+
