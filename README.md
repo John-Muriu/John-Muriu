@@ -90,7 +90,7 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects  
 ```javascript
 console.log(`Feel free to contribute`);
 ```
@@ -124,7 +124,7 @@ console.log(`Feel free to contribute`);
  
 <p align="left">
 <a href="https://github.com/john-muriu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=algolia" />
+  <img align="left" src="https://github-readme-stat.vercel.app/api?username=john-muriu&show_icons=true&theme=algolia" />
 </a>
 </p>
 
