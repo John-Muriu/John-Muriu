@@ -47,8 +47,8 @@ console.log(`Feel free to contribute`);
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=bouncing-Balls&theme=algolia" />
   </a>
 
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
+  <a href="https://github.com/John-Muriu/facebook-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=github-readme-quotes&theme=algolia" />
   </a>
 </p>
 </span>
