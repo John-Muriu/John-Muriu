@@ -1,7 +1,7 @@
 <h1 align="center"> Hello Forks  i'm JoHn MuRiU :wave:</h1> 
  ,<h3 align="center">FrOnT-eNd Developer</h3>
 
-p align="center">
+<p align="center">
 <!--<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
   <img align="center" width="25%" src="exploring.gif" alt="header"/> 
   <br>
