@@ -58,7 +58,7 @@
 <p align="left"> <img src="https://gpvc.arturio.dev/john-muriu" alt="profile-views"> </p>
 
 
-Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
+I'm a passionate  Frontend Web Developer rocket from Kenya.
 
 
 Talking about Personal Stuffs:
