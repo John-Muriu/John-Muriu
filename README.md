@@ -72,11 +72,11 @@ Talking about Personal Stuffs:
 :speech_balloon: Ask me about anything, I am happy to help ;
 
 👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/)
-- ⚡ Fun fact: Brain is forever a nerd
+⚡ Fun fact: Brain is forever a nerd
 
  
  
-:memo:[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
+:memo:  [My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
 ### ⚡ Technologies
 
