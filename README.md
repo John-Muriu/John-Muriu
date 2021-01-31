@@ -13,6 +13,7 @@ Talking about Personal Stuffs:
 👨🏽‍💻 I’m currently working on cool projects ;
 
 :seedling: - 🔭 I’m currently working on several Projects (https://github.com/john-muriu/);
+
 :seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify/)
 
 :speech_balloon: Ask me about anything, I am happy to help ;
