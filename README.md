@@ -1,6 +1,13 @@
 <h1 align="center"> Hello Forks  i'm JoHn MuRiU :wave:</h1> 
  ,<h3 align="center">FrOnT-eNd Developer</h3>
 
+p align="center">
+<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> 
+<!--  <img align="center" width="25%" src="/assets/exploring.gif" alt="header"/> -->
+  <br>
+  <h5 align="center">console.log('Forever Explorer');</h5>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> 
 <a href="https://facebook.com/john.muriu.54" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
