@@ -40,6 +40,24 @@
 </p>
 
 <br>
+<p align="left">
+  <a href="https://github.com/john-muriu" target="_blank">
+    <img src="https://img.shields.io/github/followers/john-muriu?label=Follow%20Me&style=social"/>
+  </a>
+
+
+  <a href="https://twitter.com/j_muriu" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/j_muriu?style=social"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/john-muriu/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/john-muriu"/>
+  </a>
+</p>
+
+
+<p align="center"> <img src="https://gpvc.arturio.dev/john-muriu" alt="profile-views"> </p>
+
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
