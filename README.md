@@ -3,8 +3,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> </p>
-<p> <a href="https://facebook.com/john.muriu.54" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
- /></a> </p>
+<p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white/></a> </p
+
 
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
