@@ -21,15 +21,15 @@ Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on cool projects ;
 
-:seedling: - 🔭 I’m currently working on several Projects (https://github.com/john-muriu/);
+:seedling: - 🔭 I’m currently working on several [Projects](https://github.com/john-muriu/);
 
-:seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify.app/)
+:seedling:  I’m looking to collaborate on JavaScript [Open Source Projects](https://johnmuriu.netlify.app/)
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
-👨‍💻 All of my projects are available at [https://github.com/john-muriu/](https://github.com/john-muriu/)
+👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/)
  
-:memo: Resume[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
+:memo:[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
 ### ⚡ Technologies
 
