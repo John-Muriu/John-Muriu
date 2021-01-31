@@ -61,10 +61,18 @@ console.log(`Feel free to contribute`);
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="john-muriu" />
 </a>
 </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/johnmuriu" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
+</p>
+
 <br>
 <hr/>
  
-[![John's GitHub statss](https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=radical&hide=contribs,issues))](https://github.com/john-muriu/github-readme-stats)
+<p align="center">
+<a href="https://github.com/john-muriu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=john-muriu&show_icons=true&theme=algolia" />
+</a>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muriu&langs_count=8)](https://github.com/john-muriu/github-readme-stats)
