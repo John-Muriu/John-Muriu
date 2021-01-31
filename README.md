@@ -9,10 +9,37 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/j_muriu" target="blank"><img src="https://img.shields.io/twitter/follow/j_muriu?logo=twitter&style=for-the-badge" alt="j_muriu" /></a> 
-<a href="https://facebook.com/john.muriu.54" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/john-muriu/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></p>
+<p align="center">
+  <a title="Portfolio" href="https://johnmuriu.netlify.app/">
+    <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
+  </a>
+  
+  <a title="DEV.to" href="https://dev.to/legacystoc">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Medium" href="https://medium.com/@johnmuriu">
+    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45"  />
+  </a>
+ 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/john-muriu/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Email" href="mailto:johnmuriw@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Stackoverflow" href="https://stackoverflow.com/users/13070338/muriu">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Twitter" href="https://twitter.com/j_muriu">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+  </a>
+</p>
 
+<br>
 
 Hi, I'm John Muriu!, a passionate  Frontend Web Developer rocket from Kenya.
 
@@ -28,6 +55,9 @@ Talking about Personal Stuffs:
 :speech_balloon: Ask me about anything, I am happy to help ;
 
 👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/)
+- ⚡ Fun fact: Brain is forever a nerd
+
+ 
  
 :memo:[My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
 
