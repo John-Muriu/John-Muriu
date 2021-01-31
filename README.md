@@ -14,7 +14,7 @@ Talking about Personal Stuffs:
 
 :seedling: - 🔭 I’m currently working on several Projects (https://github.com/john-muriu/);
 
-:seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify/)
+:seedling:  I’m looking to collaborate on [JavaScript/Python Open Source Projects](https://johnmuriu.netlify.app/)
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
