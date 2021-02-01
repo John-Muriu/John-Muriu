@@ -70,7 +70,7 @@ Talking about Personal Stuffs:
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
-👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/)
+👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/);
 
 ⚡ Fun fact: Brain is forever a nerd
 
@@ -117,7 +117,7 @@ console.log(`Feel free to contribute`);
 </a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/johnmuriu" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
+<a href="https://www.buymeacoffee.com/johnmuriu" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="20%" width="30%" ></a>
 </p>
 
 <br>
