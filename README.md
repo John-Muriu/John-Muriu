@@ -117,7 +117,7 @@ console.log(`Feel free to contribute`);
 </a>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/johnmuriu" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="20%" width="30%" ></a>
+<a href="https://www.buymeacoffee.com/johnmuriu" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="15%" width="25%" ></a>
 </p>
 
 <br>
