@@ -113,7 +113,7 @@ console.log(`Feel free to contribute`);
 
 <p>
 <a href="https://www.buymeacoffee.com/johnmuriu"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="john-muriu" />
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="15%" width="25%" alt="john-muriu" />
 </a>
 </p>
 <p align="center">
