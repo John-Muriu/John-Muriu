@@ -6,8 +6,7 @@
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
-
-
+<br>
 <p align="center">
   <a title="Portfolio" href="https://johnmuriu.netlify.app/">
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
@@ -90,6 +89,7 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects  
 ```javascript
