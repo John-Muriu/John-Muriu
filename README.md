@@ -24,9 +24,9 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   
-  <a title="Email" href="mailto:johnmuriw@gmail.com">
+ <!-- <a title="Email" href="mailto:johnmuriw@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-  </a>
+  </a> -->
   
   <a title="Stackoverflow" href="https://stackoverflow.com/users/13070338/muriu">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
