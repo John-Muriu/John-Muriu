@@ -62,7 +62,7 @@ I'm a passionate  Frontend Web Developer rocket from Kenya.
 
 Talking about Personal Stuffs:
 
-👨🏽‍💻 I’m currently working on cool projects ;
+👨🏽‍💻  I’m currently working on cool projects ;
 
 :seedling: - 🔭 I’m currently working on several [Projects](https://github.com/john-muriu/);
 
@@ -103,7 +103,7 @@ console.log(`Feel free to contribute`);
   </a>
 
   <a href="https://github.com/John-Muriu/facebook-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=facebook-clone&theme=algolia" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=john-muriu&repo=facebook-clone&theme=algolia" />
   </a>
 </p>
 </span>
