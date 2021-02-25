@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Forks  i'm JoHn MuRiU :wave: :wave::wave:  </h1> 
+<h1 align="center"> Hello Forks  i'm JoHn MuRiU :wave: :wave:  </h1> 
  <h3 align="center">FrOnT-eNd Developer</h3>
 <p align="center">
 <!--<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
