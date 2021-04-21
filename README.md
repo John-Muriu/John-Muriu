@@ -10,7 +10,7 @@
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-muriu&label=Profile%20views&color=0e75b6&style=flat" alt="john-muriu" /> </p>
  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-muriu&rank=S,AAA" alt="john-muriu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-muriu" alt="john-muriu" /></a> </p>
 
 <p align="center">
   <a title="Portfolio" href="https://johnmuriu.netlify.app/">
