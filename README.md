@@ -8,6 +8,10 @@
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-muriu&label=Profile%20views&color=0e75b6&style=flat" alt="john-muriu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-muriu" alt="john-muriu" /></a> </p>
+
 <p align="center">
   <a title="Portfolio" href="https://johnmuriu.netlify.app/">
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
