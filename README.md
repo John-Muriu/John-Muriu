@@ -7,7 +7,7 @@
  <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p> 
-<a href="https://app.daily.dev/muriu"><img  align="right" src="https://api.daily.dev/devcards/fd7c6c273b2849f583812a5dc52ce33f.png?r=qqg" width="200" alt="John Muriu's Dev Card"/></a>
+<a href="https://app.daily.dev/muriu"><img  align="right" src="https://api.daily.dev/devcards/fd7c6c273b2849f583812a5dc52ce33f.png?r=qqg" width="300" alt="John Muriu's Dev Card"/></a>
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-muriu&label=Profile%20views&color=0e75b6&style=flat" alt="john-muriu" /> </p>
  -->
