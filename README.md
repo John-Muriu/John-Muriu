@@ -2,10 +2,10 @@
  <h3 align="center">FrOnT-eNd Developer</h3>
 <p align="center">
 <!--<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
-  <img align="center" width="25%" src="exploring.gif" alt="header"/> 
+<!--   <img align="center" width="25%" src="exploring.gif" alt="header"/>  -->
   <br>
  <br>
-  <h5 align="center">console.log('Forever Explorer');</h5>
+<!--   <h5 align="center">console.log('Forever Explorer');</h5> -->
 </p> 
 <a href="https://app.daily.dev/muriu"><img  align="right" src="https://api.daily.dev/devcards/fd7c6c273b2849f583812a5dc52ce33f.png?r=qqg" width="150" alt="John Muriu's Dev Card"/></a>
 <br>
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-
+## How many stalkers I have
 <p align="left"> <img src="https://gpvc.arturio.dev/john-muriu" alt="profile-views"> </p>
 
 
