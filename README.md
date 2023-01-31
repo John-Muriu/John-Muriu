@@ -38,7 +38,7 @@
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
   
-  <a title="Twitter" href="https://twitter.com/j_muriu">
+  <a title="Twitter" href="https://twitter.com/muriu_j">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
 </p>
@@ -70,9 +70,9 @@ Talking about Personal Stuffs:
 
 👨🏽‍💻  I’m currently working on cool projects ;
 
-:seedling: - 🔭 I’m currently working on several [Projects](https://github.com/john-muriu/);
+:seedling: - 🔭 I’m currently working on several [Ecommerce platform](https://github.com/john-muriu/) [Cloud POS Systems](https://github.com/john-muriu/);
 
-:seedling:  I’m looking to collaborate on JavaScript [Open Source Projects](https://johnmuriu.netlify.app/)
+:seedling:  I’m looking to collaborate on JavaScript [Open Source Projects](https://github.com/john-muriu/)
 
 :speech_balloon: Ask me about anything, I am happy to help ;
 
