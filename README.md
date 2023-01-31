@@ -50,7 +50,7 @@
   </a>
 
 
-  <a href="https://twitter.com/j_muriu" target="_blank">
+  <a href="https://twitter.com/muriu_j" target="_blank">
     <img src="https://img.shields.io/twitter/follow/j_muriu?style=social"/>
   </a>
 
@@ -95,6 +95,7 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects  
