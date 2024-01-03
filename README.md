@@ -3,18 +3,21 @@
 <p align="center">
 <!--<img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
 <!--   <img align="center" width="25%" src="exploring.gif" alt="header"/>  -->
-  <br>
- <br>
+<!--   <br>
+ <br> -->
 <!--   <h5 align="center">console.log('Forever Explorer');</h5> -->
 </p> 
-<a href="https://app.daily.dev/muriu"><img  align="right" src="https://api.daily.dev/devcards/fd7c6c273b2849f583812a5dc52ce33f.png?r=qqg" width="150" alt="John Muriu's Dev Card"/></a>
+<a href="https://app.daily.dev/muriu"><img  align="center" src="https://api.daily.dev/devcards/fd7c6c273b2849f583812a5dc52ce33f.png?r=qqg" width="150" alt="John Muriu's Dev Card"/></a>
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-muriu&label=Profile%20views&color=0e75b6&style=flat" alt="john-muriu" /> </p>
  -->
+
+
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-muriu" alt="john-muriu" /></a> </p>
 
 <p align="center">
-  <a title="Portfolio" href="https://johnmuriu.netlify.app/">
+  <a title="Portfolio" href="[https://johnmuriu.netlify.app](https://john-muriu.vercel.app/)/">
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
   </a>
   
@@ -44,6 +47,9 @@
 </p>
 
 <br>
+
+📫 How to reach me: 
+
 <p align="left">
   <a href="https://github.com/john-muriu" target="_blank">
     <img src="https://img.shields.io/github/followers/john-muriu?label=Follow%20Me&style=social"/>
@@ -57,32 +63,36 @@
   <a href="https://www.linkedin.com/in/john-muriu/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/john-muriu"/>
   </a>
+  <a href="mailto:johnmuriw@gmail.com"target="_blank ">
+   <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" <a/>
 </p>
 
-## How many stalkers I have
-<p align="left"> <img src="https://gpvc.arturio.dev/john-muriu" alt="profile-views"> </p>
-
-
+## About us
 I'm a passionate  Frontend Web Developer rocket from Kenya.
 
+## 🔭 Currently Working On
 
-Talking about Personal Stuffs:
+I am a passionate Front End Engineer, creating delightful user interfaces to enhance user experiences.
 
-👨🏽‍💻  I’m currently working on cool projects ;
+## 🌱 Currently Learning
 
-:seedling: - 🔭 I’m currently working on several [Ecommerce platform](https://github.com/john-muriu/) [Cloud POS Systems](https://github.com/john-muriu/);
+I am currently expanding my skills into:
 
-:seedling:  I’m looking to collaborate on JavaScript [Open Source Projects](https://github.com/john-muriu/)
+- Data Analysis: Exploring the world of data to derive meaningful insights.
+- Machine Learning: Delving into the fascinating field of machine learning to understand and apply its principles.
 
-:speech_balloon: Ask me about anything, I am happy to help ;
+## 💬 Ask Me About
 
-👨‍💻 All of my projects are available at [Github](https://github.com/john-muriu/);
+I'm always open for discussions on:
 
+- JavaScript: My primary language for creating dynamic and responsive web applications.
+- React: Share your React challenges or discoveries with me!
+- CSS: Discussing styling techniques and best practices.
 ⚡ Fun fact: Brain is forever a nerd
 
  
  
-:memo:  [My resume](https://drive.google.com/file/d/1ESXF3ulffejwbGB-Wj6u1z1Q0N5lSH_b/view)
+:memo:  [My resume](https://www.canva.com/design/DAFuVerY6xY/0r5XqHSgNUCxJm-89eXDsg/view?utm_content=DAFuVerY6xY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### ⚡ Technologies
 
@@ -95,6 +105,16 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Laravel](https://img.shields.io/badge/-laravel-181717?style=flat-square&logo=laravel)
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+<img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black" />
+
+
+
+
 
 
 
