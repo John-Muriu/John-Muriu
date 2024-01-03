@@ -70,19 +70,11 @@
 ## About us
 I'm a passionate  Frontend Web Developer rocket from Kenya.
 
-## 🔭 Currently Working On
-
-I am a passionate Front End Engineer, creating delightful user interfaces to enhance user experiences.
-
-## 🌱 Currently Learning
-
 I am currently expanding my skills into:
 
 - Data Analysis: Exploring the world of data to derive meaningful insights.
-- Machine Learning: Delving into the fascinating field of machine learning to understand and apply its principles.
 
-## 💬 Ask Me About
-
+### 💬 Ask Me About
 I'm always open for discussions on:
 
 - JavaScript: My primary language for creating dynamic and responsive web applications.
